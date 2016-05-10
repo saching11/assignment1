@@ -1,0 +1,15 @@
+package myFirstProgram;
+
+public class assignment1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int number1 = 5;
+		float number2 = 10.5f;
+		float sum;
+		sum = number1 + number2;
+		System.out.println( "Sum of numbers is " + sum );
+
+	}
+
+}
